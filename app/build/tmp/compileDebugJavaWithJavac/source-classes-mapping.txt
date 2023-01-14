@@ -1,0 +1,24 @@
+com/viewpager/DataBindingTriggerClass.java
+ com.viewpager.DataBindingTriggerClass
+com/viewpager/databinding/ActivityHomeBinding.java
+ com.viewpager.databinding.ActivityHomeBinding
+com/viewpager/model/OnBoardingModel.java
+ com.viewpager.model.OnBoardingModel
+com/viewpager/model/MovieModel.java
+ com.viewpager.model.MovieModel
+com/viewpager/BuildConfig.java
+ com.viewpager.BuildConfig
+com/viewpager/adapter/onboarding/OnBoardingAapter.java
+ com.viewpager.adapter.onboarding.OnBoardingAapter
+ com.viewpager.adapter.onboarding.OnBoardingAapter$OnBoardingViewHolder
+com/viewpager/ui/home/HomeActivity.java
+ com.viewpager.ui.home.HomeActivity
+com/viewpager/adapter/movie/MovieAdapter.java
+ com.viewpager.adapter.movie.MovieAdapter
+ com.viewpager.adapter.movie.MovieAdapter$MovieViewHolder
+com/viewpager/ui/main/MainActivity.java
+ com.viewpager.ui.main.MainActivity
+ com.viewpager.ui.main.MainActivity$1
+ com.viewpager.ui.main.MainActivity$2
+com/viewpager/databinding/ActivityMainBinding.java
+ com.viewpager.databinding.ActivityMainBinding

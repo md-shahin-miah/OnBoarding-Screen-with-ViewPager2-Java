@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="10dp"
+    android:clickable="true"
+    android:focusable="true"
+    android:foreground="?android:attr/selectableItemBackground"
+    app:cardCornerRadius="10dp"
+    app:cardElevation="5dp"
+    >
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="7dp"
+        >
+
+        <com.makeramen.roundedimageview.RoundedImageView
+            android:id="@+id/item_img_round_poster_movie"
+            android:layout_width="match_parent"
+            android:layout_height="400dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/img"
+            app:riv_corner_radius="10dp" />
+
+
+    <TextView
+        android:id="@+id/item_txt_name_movie"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="The Tomorrow War"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:layout_margin="5dp"
+        android:layout_below="@id/item_img_round_poster_movie"
+        />
+
+        <TextView
+            android:id="@+id/item_txt_category_movie"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Science Fiction"
+            android:textSize="13sp"
+            android:textColor="@android:color/darker_gray"
+            android:layout_margin="5dp"
+            android:layout_below="@+id/item_txt_name_movie"
+            />
+
+        <TextView
+            android:id="@+id/item_txt_release_date_movie"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="March-14-2021"
+            android:textSize="11sp"
+            android:textColor="@android:color/darker_gray"
+            android:layout_margin="5dp"
+            android:layout_below="@+id/item_txt_category_movie"
+            />
+
+        <RatingBar
+            android:id="@+id/item_rating_bar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:isIndicator="true"
+            android:numStars="5"
+            style="@style/Widget.AppCompat.RatingBar.Small"
+            android:rating="4.5"
+            android:layout_margin="5dp"
+            android:layout_below="@+id/item_txt_release_date_movie"
+            />
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:fabSize="mini"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="true"
+            android:layout_margin="10dp"
+            android:src="@drawable/ic_favorite"
+            android:backgroundTint="@color/white"
+            android:clickable="true"
+            android:focusable="true"
+            />
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

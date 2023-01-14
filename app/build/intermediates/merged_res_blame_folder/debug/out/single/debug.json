@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\build\\intermediates\\merged_res\\debug\\menu_menu.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_profile.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\src\\main\\res\\drawable\\ic_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_location.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\src\\main\\res\\drawable\\ic_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\build\\intermediates\\merged_res\\debug\\drawable_payment.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\src\\main\\res\\drawable\\payment.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\build\\intermediates\\merged_res\\debug\\drawable_food.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\src\\main\\res\\drawable\\food.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\build\\intermediates\\merged_res\\debug\\drawable_onboarding_indicator_active.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\src\\main\\res\\drawable\\onboarding_indicator_active.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\build\\intermediates\\merged_res\\debug\\drawable_location.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\src\\main\\res\\drawable\\location.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_img.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\src\\main\\res\\drawable-v24\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_img_2.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\src\\main\\res\\drawable-v24\\img_2.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\build\\intermediates\\merged_res\\debug\\drawable_home.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\src\\main\\res\\drawable\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\build\\intermediates\\merged_res\\debug\\layout_item_movie.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\src\\main\\res\\layout\\item_movie.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\build\\intermediates\\merged_res\\debug\\drawable_delivery.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\src\\main\\res\\drawable\\delivery.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\src\\main\\res\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_img_3.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\src\\main\\res\\drawable-v24\\img_3.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_favorite.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\src\\main\\res\\drawable\\ic_favorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\build\\intermediates\\merged_res\\debug\\layout_item_onboarding.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\src\\main\\res\\layout\\item_onboarding.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\build\\intermediates\\merged_res\\debug\\drawable_favourite.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\src\\main\\res\\drawable\\favourite.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_img_1.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\src\\main\\res\\drawable-v24\\img_1.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\build\\intermediates\\merged_res\\debug\\drawable_onboarding_indicator_inactive.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\src\\main\\res\\drawable\\onboarding_indicator_inactive.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    }
+]

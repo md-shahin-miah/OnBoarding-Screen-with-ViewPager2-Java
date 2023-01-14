@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_home.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
