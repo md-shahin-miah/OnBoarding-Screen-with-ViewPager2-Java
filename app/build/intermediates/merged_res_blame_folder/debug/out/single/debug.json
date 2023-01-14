@@ -12,20 +12,20 @@
         "source": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\src\\main\\res\\drawable\\ic_profile.xml"
     },
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_location.xml.flat",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\src\\main\\res\\drawable\\ic_location.xml"
-    },
-    {
         "merged": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\build\\intermediates\\merged_res\\debug\\drawable_payment.png.flat",
         "source": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\src\\main\\res\\drawable\\payment.png"
     },
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_location.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\src\\main\\res\\drawable\\ic_location.xml"
     },
     {
         "merged": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\build\\intermediates\\merged_res\\debug\\drawable_food.png.flat",
         "source": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\src\\main\\res\\drawable\\food.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
         "merged": "C:\\Users\\User\\AndroidStudioProjects\\ViewPager2-and-OnBoardingScreens\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",

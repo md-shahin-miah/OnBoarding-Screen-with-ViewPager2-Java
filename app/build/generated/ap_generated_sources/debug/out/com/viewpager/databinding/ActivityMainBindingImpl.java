@@ -1,6 +1,6 @@
-package com.viewpager2.databinding;
-import com.viewpager2.R;
-import com.viewpager2.BR;
+package com.viewpager.databinding;
+import com.viewpager.R;
+import com.viewpager.BR;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import android.view.View;

@@ -1,4 +1,4 @@
-package com.viewpager2;
+package com.viewpager;
 
 import android.util.SparseArray;
 import android.util.SparseIntArray;
@@ -6,9 +6,6 @@ import android.view.View;
 import androidx.databinding.DataBinderMapper;
 import androidx.databinding.DataBindingComponent;
 import androidx.databinding.ViewDataBinding;
-import com.viewpager2.databinding.ActivityHomeBindingImpl;
-import com.viewpager2.databinding.ActivityMainBindingImpl;
-import java.lang.IllegalArgumentException;
 import java.lang.Integer;
 import java.lang.Object;
 import java.lang.Override;
@@ -19,16 +16,7 @@ import java.util.HashMap;
 import java.util.List;
 
 public class DataBinderMapperImpl extends DataBinderMapper {
-  private static final int LAYOUT_ACTIVITYHOME = 1;
-
-  private static final int LAYOUT_ACTIVITYMAIN = 2;
-
-  private static final SparseIntArray INTERNAL_LAYOUT_ID_LOOKUP = new SparseIntArray(2);
-
-  static {
-    INTERNAL_LAYOUT_ID_LOOKUP.put(com.viewpager2.R.layout.activity_home, LAYOUT_ACTIVITYHOME);
-    INTERNAL_LAYOUT_ID_LOOKUP.put(com.viewpager2.R.layout.activity_main, LAYOUT_ACTIVITYMAIN);
-  }
+  private static final SparseIntArray INTERNAL_LAYOUT_ID_LOOKUP = new SparseIntArray(0);
 
   @Override
   public ViewDataBinding getDataBinder(DataBindingComponent component, View view, int layoutId) {
@@ -37,20 +25,6 @@ public class DataBinderMapperImpl extends DataBinderMapper {
       final Object tag = view.getTag();
       if(tag == null) {
         throw new RuntimeException("view must have a tag");
-      }
-      switch(localizedLayoutId) {
-        case  LAYOUT_ACTIVITYHOME: {
-          if ("layout/activity_home_0".equals(tag)) {
-            return new ActivityHomeBindingImpl(component, view);
-          }
-          throw new IllegalArgumentException("The tag for activity_home is invalid. Received: " + tag);
-        }
-        case  LAYOUT_ACTIVITYMAIN: {
-          if ("layout/activity_main_0".equals(tag)) {
-            return new ActivityMainBindingImpl(component, view);
-          }
-          throw new IllegalArgumentException("The tag for activity_main is invalid. Received: " + tag);
-        }
       }
     }
     return null;
@@ -104,11 +78,6 @@ public class DataBinderMapperImpl extends DataBinderMapper {
   }
 
   private static class InnerLayoutIdLookup {
-    static final HashMap<String, Integer> sKeys = new HashMap<String, Integer>(2);
-
-    static {
-      sKeys.put("layout/activity_home_0", com.viewpager2.R.layout.activity_home);
-      sKeys.put("layout/activity_main_0", com.viewpager2.R.layout.activity_main);
-    }
+    static final HashMap<String, Integer> sKeys = new HashMap<String, Integer>(0);
   }
 }

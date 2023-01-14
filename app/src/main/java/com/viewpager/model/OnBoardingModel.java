@@ -1,4 +1,4 @@
-package com.viewpager2.model;
+package com.viewpager.model;
 
 public class OnBoardingModel
 {

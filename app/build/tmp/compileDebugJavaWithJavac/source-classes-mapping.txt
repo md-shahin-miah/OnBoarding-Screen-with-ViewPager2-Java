@@ -1,7 +1,5 @@
 com/viewpager/DataBindingTriggerClass.java
  com.viewpager.DataBindingTriggerClass
-com/viewpager/databinding/ActivityHomeBinding.java
- com.viewpager.databinding.ActivityHomeBinding
 com/viewpager/model/OnBoardingModel.java
  com.viewpager.model.OnBoardingModel
 com/viewpager/model/MovieModel.java

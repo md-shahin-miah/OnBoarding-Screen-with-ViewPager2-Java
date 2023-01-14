@@ -99,7 +99,7 @@ ADDED from C:\Users\User\AndroidStudioProjects\ViewPager2-and-OnBoardingScreens\
 	android:exported
 		ADDED from C:\Users\User\AndroidStudioProjects\ViewPager2-and-OnBoardingScreens\app\src\main\AndroidManifest.xml:14:13-36
 	android:name
-		ADDED from C:\Users\User\AndroidStudioProjects\ViewPager2-and-OnBoardingScreens\app\src\main\AndroidManifest.xml:13:13-49
+		ADDED from C:\Users\User\AndroidStudioProjects\ViewPager2-and-OnBoardingScreens\app\src\main\AndroidManifest.xml:13:13-62
 activity#com.viewpager.ui.main.MainActivity
 ADDED from C:\Users\User\AndroidStudioProjects\ViewPager2-and-OnBoardingScreens\app\src\main\AndroidManifest.xml:15:9-24:20
 	android:exported
@@ -107,7 +107,7 @@ ADDED from C:\Users\User\AndroidStudioProjects\ViewPager2-and-OnBoardingScreens\
 	android:theme
 		ADDED from C:\Users\User\AndroidStudioProjects\ViewPager2-and-OnBoardingScreens\app\src\main\AndroidManifest.xml:18:13-46
 	android:name
-		ADDED from C:\Users\User\AndroidStudioProjects\ViewPager2-and-OnBoardingScreens\app\src\main\AndroidManifest.xml:16:13-49
+		ADDED from C:\Users\User\AndroidStudioProjects\ViewPager2-and-OnBoardingScreens\app\src\main\AndroidManifest.xml:16:13-62
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from C:\Users\User\AndroidStudioProjects\ViewPager2-and-OnBoardingScreens\app\src\main\AndroidManifest.xml:19:13-23:29
 action#android.intent.action.MAIN

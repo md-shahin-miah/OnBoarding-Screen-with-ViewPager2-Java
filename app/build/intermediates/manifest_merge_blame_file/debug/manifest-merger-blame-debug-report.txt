@@ -32,13 +32,13 @@
 22        <activity
 22-->C:\Users\User\AndroidStudioProjects\ViewPager2-and-OnBoardingScreens\app\src\main\AndroidManifest.xml:12:9-14:39
 23            android:name="com.viewpager.ui.home.HomeActivity"
-23-->C:\Users\User\AndroidStudioProjects\ViewPager2-and-OnBoardingScreens\app\src\main\AndroidManifest.xml:13:13-49
+23-->C:\Users\User\AndroidStudioProjects\ViewPager2-and-OnBoardingScreens\app\src\main\AndroidManifest.xml:13:13-62
 24            android:exported="true" />
 24-->C:\Users\User\AndroidStudioProjects\ViewPager2-and-OnBoardingScreens\app\src\main\AndroidManifest.xml:14:13-36
 25        <activity
 25-->C:\Users\User\AndroidStudioProjects\ViewPager2-and-OnBoardingScreens\app\src\main\AndroidManifest.xml:15:9-24:20
 26            android:name="com.viewpager.ui.main.MainActivity"
-26-->C:\Users\User\AndroidStudioProjects\ViewPager2-and-OnBoardingScreens\app\src\main\AndroidManifest.xml:16:13-49
+26-->C:\Users\User\AndroidStudioProjects\ViewPager2-and-OnBoardingScreens\app\src\main\AndroidManifest.xml:16:13-62
 27            android:exported="true"
 27-->C:\Users\User\AndroidStudioProjects\ViewPager2-and-OnBoardingScreens\app\src\main\AndroidManifest.xml:17:13-36
 28            android:theme="@style/FullScreen" >

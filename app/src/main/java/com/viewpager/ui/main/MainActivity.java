@@ -1,4 +1,4 @@
-package com.viewpager2.ui.main;
+package com.viewpager.ui.main;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.content.ContextCompat;
@@ -6,24 +6,23 @@ import androidx.viewpager2.widget.ViewPager2;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 
 import com.google.android.material.button.MaterialButton;
-import com.viewpager2.R;
-import com.viewpager2.adapter.onboarding.OnBoardingAapter;
-import com.viewpager2.databinding.ActivityMainBinding;
-import com.viewpager2.model.OnBoardingModel;
-import com.viewpager2.ui.home.HomeActivity;
+import com.viewpager.R;
+import com.viewpager.adapter.onboarding.OnBoardingAapter;
+import com.viewpager.model.OnBoardingModel;
+import com.viewpager.ui.home.HomeActivity;
 
 import java.util.ArrayList;
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
-
-    private ActivityMainBinding binding;
+    private static final String TAG = "MainActivity";
     private List<OnBoardingModel> onBoardingModels;
     private OnBoardingAapter onBoardingAapter;
     ViewPager2 viewPagerOnboarding;
@@ -59,6 +58,7 @@ public class MainActivity extends AppCompatActivity {
 
         setCurrentOnBoardingIndicator(0);
 
+
         viewPagerOnboarding.registerOnPageChangeCallback(new ViewPager2.OnPageChangeCallback() {
             @Override
             public void onPageSelected(int position) {
@@ -67,7 +67,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        linearLayoutPageIndicator.setOnClickListener(new View.OnClickListener() {
+        materialButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 if (viewPagerOnboarding.getCurrentItem() + 1 < onBoardingAapter.getItemCount()) {
@@ -85,9 +85,11 @@ public class MainActivity extends AppCompatActivity {
 
 
     private void setCurrentOnBoardingIndicator(int index) {
-        int childCount = viewPagerOnboarding.getChildCount();
+        int childCount = linearLayoutPageIndicator.getChildCount();
+        Log.d(TAG, "setCurrentOnBoardingIndicator: "+viewPagerOnboarding.getChildCount());
         for (int i = 0; i < childCount; i++) {
             ImageView imageView = (ImageView) linearLayoutPageIndicator.getChildAt(i);
+            Log.d(TAG, "setCurrentOnBoardingIndicator: "+i+" "+index);
             if (i == index) {
                 imageView.setImageDrawable(ContextCompat.getDrawable(getApplicationContext(), R.drawable.onboarding_indicator_active));
             } else {

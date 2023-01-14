@@ -1,4 +1,4 @@
-package com.viewpager2.adapter.movie;
+package com.viewpager.adapter.movie;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -10,8 +10,8 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.makeramen.roundedimageview.RoundedImageView;
-import com.viewpager2.R;
-import com.viewpager2.model.MovieModel;
+import com.viewpager.R;
+import com.viewpager.model.MovieModel;
 
 import java.util.ArrayList;
 

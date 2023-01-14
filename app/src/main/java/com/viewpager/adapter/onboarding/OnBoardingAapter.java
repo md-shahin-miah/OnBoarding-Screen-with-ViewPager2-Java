@@ -1,4 +1,4 @@
-package com.viewpager2.adapter.onboarding;
+package com.viewpager.adapter.onboarding;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -9,8 +9,8 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.viewpager2.R;
-import com.viewpager2.model.OnBoardingModel;
+import com.viewpager.R;
+import com.viewpager.model.OnBoardingModel;
 
 import java.util.List;
 

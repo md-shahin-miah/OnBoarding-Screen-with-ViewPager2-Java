@@ -1,4 +1,4 @@
-package com.viewpager2;
+package com.viewpager;
 
 import org.junit.Test;
 
