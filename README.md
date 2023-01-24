@@ -1,6 +1,5 @@
 # OnBoarding-Screen-with-ViewPager2-Java
 
-# OnBoarding-Screen-with-ViewPager2-Java
 
 <img src="https://user-images.githubusercontent.com/68494371/212490742-f2e8a850-8b81-4592-8e3e-dc6971c04171.png" alt="alt home" style="width:40%;height:100"> | <img src="https://user-images.githubusercontent.com/68494371/212490737-7555383e-7c09-41fa-8198-5072595c25f9.png" alt="alt home" style="width:40%;height:100">
 <br />
